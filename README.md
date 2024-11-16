@@ -1,4 +1,4 @@
-## Hi there 👋
+Added screenshot for milestone submission.
 
 <!--
 **Mokgadi01/Mokgadi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
